@@ -53,8 +53,8 @@ Built for [meshcode](https://meshcode.ai) (free download — macOS/Windows):
 
 Manual alternative: repo zip → `.meshcode/skills/`. Also works in Claude Code (`~/.claude/skills/`), Codex, and Cursor.
 
-## 정리 로그 (2026-09-13)
+## Distillation log (2026-09-13)
 
-- 소스: 개별 정제 — pptxgenjs/python-pptx/pandoc/문서 타이포그래피 공식 문서 지식 + 데크·문서 크래프트. anthropics/skills의 docx·pdf·pptx 스킬은 source-available(오픈소스 아님)이라 **미사용** — 원문 포팅 없이 독립 저술
-- 제외: 도구 설치 절차, 런타임 전용 필드, 스크립트
-- 유지: 산출물 검증 규칙(pptx 오버플로·폰트 폴백 / docx 재열람·CJK 폰트 / pdf 폰트 임베딩·OCR·용량)과 출력 계약(아웃라인 승인 → 파일 → QA 리포트)
+- Sources: independent distillation — pptxgenjs / python-pptx / pandoc official docs plus deck and document typography craft. The anthropics/skills docx · pdf · pptx skills are source-available (not open source), so they were **not used** — written independently, nothing ported
+- Excluded: tool installation steps, runtime-only fields, scripts
+- Kept: artifact verification rules (pptx text overflow and font fallback / docx reopen-and-verify with CJK fonts / pdf font embedding, OCR layer, file size) and the output contract (outline approval → file → QA report)
