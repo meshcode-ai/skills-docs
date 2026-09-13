@@ -1,0 +1,12 @@
+{
+  "description": "Document generation skills for Claude Code, Codex, Cursor — PowerPoint deck creation (pptx), Word report/proposal generation (docx), and PDF production with print/screen route selection, font embedding and QA. Knowledge-first agent skills: storylines, structure rules, chart-by-question, verification contracts, no scripts. MIT.",
+  "topics": [
+    "agent-skills",
+    "claude-skills",
+    "pptx",
+    "docx",
+    "pdf",
+    "presentations",
+    "report-generation"
+  ]
+}
