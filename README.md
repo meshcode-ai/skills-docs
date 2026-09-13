@@ -45,7 +45,7 @@
 
 ## Use with meshcode
 
-Built for [meshcode](https://meshcode.ai) (free download — macOS/Windows):
+Built for [meshcode](https://meshcode.ai?utm_source=github&utm_medium=org_readme&utm_campaign=gh_skills-docs) (free download — macOS/Windows):
 
 1. Open your project in meshcode
 2. In chat, ask **"show available skills"**, then **"install the document skills"** — meshcode fetches from this repo automatically
